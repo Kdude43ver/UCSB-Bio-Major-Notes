@@ -1,1 +1,1 @@
-# UCSB-Bio-Major-Notes
+# UCSB-Biology-Major-Notes
